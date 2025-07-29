@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import backgroundImage from '../assets/images/background.jpg'; 
 import Button from './UIcomponents/Button';
 import { motion, AnimatePresence } from 'framer-motion';
