@@ -1,5 +1,3 @@
-// components/Home.tsx
-import React from 'react';
 import HeroSection from '../components/HeroSection';
 import EventDetails from '../components/EventDetails';
 import EventRegistration from '../components/EventRegistration';
